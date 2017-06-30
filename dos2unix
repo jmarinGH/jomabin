@@ -1,0 +1,2 @@
+#TODO package this up
+perl -pe 's/\r\n|\n|\r/\n/g'
